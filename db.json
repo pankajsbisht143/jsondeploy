@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Faizan",
+      "email": "faizan@gmail.com",
+      "password": "faizan@123",
+      "id": 1
+    },
+    {
+      "name": "kamal",
+      "email": "kamal@gmail.com",
+      "password": "kamal@123",
+      "id": 2
+    },
+    {
+      "name": "pankaj",
+      "email": "pankaj@gmail.com",
+      "password": "pankaj@123",
+      "id": 3
+    },
+    {
+      "name": "bharat",
+      "email": "bharat@gmail.com",
+      "password": "bharat@123",
+      "id": 4
+    },
+    {
+      "name": "suraj",
+      "email": "suraj@gmail.com",
+      "password": "123",
+      "id": 5
+    }
+  ],
+  "transactions": [
+    {
+      "amount": 100,
+      "id": 2
+    },
+    {
+      "amount": 100,
+      "id": 3
+    },
+    {
+      "amount": 100,
+      "id": 7
+    }
+  ]
+}
